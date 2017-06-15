@@ -12,6 +12,12 @@ html {
 body {
   margin: 0;
 }
+#login{
+  margin-left: 45%;
+}
+#piece{
+  margin-top: 4%;
+}
 article,
 aside,
 details,

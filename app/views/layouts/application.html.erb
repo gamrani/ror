@@ -14,18 +14,23 @@
 
 
 <<<<<<< HEAD
-    <% flash.each do |message_type, message| %>
-          <div class="alert alert-<%= message_type %>"><%= message %></div>
-        <% end %>
 
-    </div>
 
 =======
 >>>>>>> 1d8cab210502431b861031e54846f2b88dbbd0da
 
+<div class="container">
    <%= render 'layouts/navigation' %>
+</div>
+  <div class="container" id="piece">
+    <% flash.each do |message_type, message| %>
+          <div class="alert alert-<%= message_type %>"><%= message %></div>
+        <% end %>
+  </div>
 
-   
+
+   </div>
+
     <%= yield %>
     <%= render 'layouts/footer' %>
 
