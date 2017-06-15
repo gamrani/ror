@@ -1,0 +1,2 @@
+class UserCour < ApplicationRecord
+end
