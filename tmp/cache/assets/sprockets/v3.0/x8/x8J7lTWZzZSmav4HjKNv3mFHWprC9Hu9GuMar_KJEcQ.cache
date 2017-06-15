@@ -1,0 +1,32 @@
+{:uriI"„file://app/assets/javascripts/package.json?type=application/json&id=17d6c1dfafdd2c902bc6948b07ccab7b51869907cd14e2018b04ebe8df6d7eb5:ET:load_pathI"app/assets/javascripts;T:filenameI"(app/assets/javascripts/package.json;T:	nameI"package;T:logical_pathI"package.json;T:content_typeI"application/json;T:sourceI"ß{
+  "name": "clean-blog",
+  "title": "Clean Blog",
+  "version": "3.3.7+1",
+  "homepage": "http://startbootstrap.com/template-overviews/clean-blog",
+  "author": "Start Bootstrap",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-header": "^1.8.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog.git"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"6file-digest://app/assets/javascripts/package.json;TTF:charsetI"
+utf-8;F:digest"%Öö’ ËÄ¶ÙBtèr@>çæç&é]–u³‘xL¸* :lengthiß:dependencies_digest"%T1V‰Ài›9Mšñ/4Ë~Â+@¸w¼O$åÅ›ûR:idI"E17d6c1dfafdd2c902bc6948b07ccab7b51869907cd14e2018b04ebe8df6d7eb5;F:
+mtimel+¯Þ½X
